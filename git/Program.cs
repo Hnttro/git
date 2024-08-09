@@ -12,7 +12,11 @@ namespace git
         {
             Console.WriteLine("daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
             Console.WriteLine("daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+<<<<<<< HEAD
             Console.WriteLine("22");
+=======
+            Console.WriteLine("11");
+>>>>>>> 92277625b2ef72d24ffe92f0d4743242a408c948
         }
     }
 }
