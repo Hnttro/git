@@ -12,8 +12,7 @@ namespace git
         {
             Console.WriteLine("daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
             Console.WriteLine("daaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
-            Console.WriteLine("22");
-            Console.WriteLine("11");
+            Console.WriteLine("333");
         }
     }
 }
